@@ -75,7 +75,7 @@ export default class GeneralInfo extends Component {
 
 
     return (
-      <div className="mx-auto mb-4 w-2/4">
+      <div className="mx-auto mb-4 w-2/4 max-w-lg">
         <h2 className="bg-blue-400 text-center text-xl">General Information</h2>
         <div>{content}</div>
       </div>

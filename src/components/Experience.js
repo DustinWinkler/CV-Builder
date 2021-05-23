@@ -145,7 +145,7 @@ export default class Experience extends Component {
     }
 
     return (
-      <div className="mx-auto mb-4 w-2/4">
+      <div className="mx-auto mb-4 w-2/4 max-w-lg">
         <h2 className="bg-blue-400 text-center text-xl">Experience</h2>
         <div className="shadow-xl border-2 border-blue-400 grid grid-cols-1 text-center relative">
           {jobsContent}
