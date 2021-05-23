@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.7d13d96b.chunk.css",
-    "main.js": "./static/js/main.a814b7d2.chunk.js",
-    "main.js.map": "./static/js/main.a814b7d2.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.2dad5544.js",
-    "runtime-main.js.map": "./static/js/runtime-main.2dad5544.js.map",
-    "static/js/2.ac36e4e3.chunk.js": "./static/js/2.ac36e4e3.chunk.js",
-    "static/js/2.ac36e4e3.chunk.js.map": "./static/js/2.ac36e4e3.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.7d13d96b.chunk.css.map": "./static/css/main.7d13d96b.chunk.css.map",
-    "static/js/2.ac36e4e3.chunk.js.LICENSE.txt": "./static/js/2.ac36e4e3.chunk.js.LICENSE.txt"
+    "main.css": "/CV-Builder/static/css/main.7d13d96b.chunk.css",
+    "main.js": "/CV-Builder/static/js/main.32ef58d5.chunk.js",
+    "main.js.map": "/CV-Builder/static/js/main.32ef58d5.chunk.js.map",
+    "runtime-main.js": "/CV-Builder/static/js/runtime-main.375b6f66.js",
+    "runtime-main.js.map": "/CV-Builder/static/js/runtime-main.375b6f66.js.map",
+    "static/js/2.ac36e4e3.chunk.js": "/CV-Builder/static/js/2.ac36e4e3.chunk.js",
+    "static/js/2.ac36e4e3.chunk.js.map": "/CV-Builder/static/js/2.ac36e4e3.chunk.js.map",
+    "index.html": "/CV-Builder/index.html",
+    "static/css/main.7d13d96b.chunk.css.map": "/CV-Builder/static/css/main.7d13d96b.chunk.css.map",
+    "static/js/2.ac36e4e3.chunk.js.LICENSE.txt": "/CV-Builder/static/js/2.ac36e4e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2dad5544.js",
+    "static/js/runtime-main.375b6f66.js",
     "static/js/2.ac36e4e3.chunk.js",
     "static/css/main.7d13d96b.chunk.css",
-    "static/js/main.a814b7d2.chunk.js"
+    "static/js/main.32ef58d5.chunk.js"
   ]
 }
